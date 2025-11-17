@@ -146,8 +146,14 @@ Then open **reports/report.html** to view the risk chart and file-wise predictio
 **Shreyas Dhanvantari**  
 Master of Engineering – Electrical & Computer Engineering  
 Ontario Tech University, Canada  
+📫 Email: dhanvantari.svd@gmail.com
 
-📫 Email: hanvantari.svd@gmail.com
+in collaboration with:
+
+**Rahul Kumar Nelakurthi**  
+Master of Engineering – Electrical & Computer Engineering  
+Ontario Tech University, Canada  
+📫 Email: nelakurtirahul@gmail.com
 
 ---
 
