@@ -17,7 +17,7 @@ This project predicts **which source code files are most likely to contain defec
 - 🐞 **Defect labels** – Generated automatically by scanning commit messages containing “fix”, “bug”, etc.  
 
 Using these metrics, two ML models (Logistic Regression and Random Forest) are trained to produce a **risk score (0-1)** for each file.
-
+Designed and tested on Google Colab
 ---
 
 ## 🧩 Project Structure
@@ -92,8 +92,8 @@ Then open **reports/report.html** to view the risk chart and file-wise predictio
 
 | Model | ROC-AUC | PR-AUC | F1-Score |
 |--------|----------|---------|-----------|
-| Logistic Regression | 0.74 | 0.63 | 0.58 |
-| Random Forest | **0.86** | **0.71** | **0.69** |
+| Logistic Regression | 0.90 | 0.84 | 0.66 |
+| Random Forest | **0.94** | **0.90** | **0.83** |
 
 ### 🔍 Insights
 - High **code churn** and **commit frequency** correlate strongly with defects.  
